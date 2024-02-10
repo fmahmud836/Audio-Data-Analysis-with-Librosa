@@ -11,8 +11,8 @@ Before you start using the code, make sure you have the necessary dependencies i
 
 ```bash
 pip install -r requirements.txt
-git clone https://github.com/fmahmud836/Audio-data-analysis.git
-cd Audio-data-analysis
+git clone https://github.com/fmahmud836/Audio-Data-Analysis-with-Librosa.git
+cd Audio-Data-Analysis-with-Librosa
 pip install -r requirements.txt
 python main.py
 ## Dataset : https://www.kaggle.com/mmoreaux/audio-cats-and-dogs
